@@ -1,0 +1,1 @@
+docker run -it --user ubuntu -v $PWD/source:/my_source_code my_image

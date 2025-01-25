@@ -1,0 +1,1 @@
+docker start -i my_image
