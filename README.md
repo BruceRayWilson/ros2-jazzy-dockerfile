@@ -1,5 +1,7 @@
 # README
 
+Follow me on YouTube [BruceRayWilson](https://www.youtube.com/channel/UCYkXxe6CGAHwopdYC8l5A1Q).
+
 ## Background
 
 This is a ROS2 Jazzy update to [Josh Newans's dockerfile-example repo](https://github.com/joshnewans/dockerfile_example) and the [OSRF Docker images](https://github.com/osrf/docker_images) were also used for inspiration.
